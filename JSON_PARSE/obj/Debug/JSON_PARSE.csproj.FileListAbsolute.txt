@@ -1,0 +1,6 @@
+D:\docs\C#\JSON_PARSE\JSON_PARSE\bin\Debug\JSON_PARSE.exe.config
+D:\docs\C#\JSON_PARSE\JSON_PARSE\obj\Debug\JSON_PARSE.csprojResolveAssemblyReference.cache
+D:\docs\C#\JSON_PARSE\JSON_PARSE\bin\Debug\JSON_PARSE.exe
+D:\docs\C#\JSON_PARSE\JSON_PARSE\bin\Debug\JSON_PARSE.pdb
+D:\docs\C#\JSON_PARSE\JSON_PARSE\obj\Debug\JSON_PARSE.exe
+D:\docs\C#\JSON_PARSE\JSON_PARSE\obj\Debug\JSON_PARSE.pdb
